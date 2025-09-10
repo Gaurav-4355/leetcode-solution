@@ -1,4 +1,4 @@
-// Last updated: 10/09/2025, 23:37:47
+// Last updated: 10/09/2025, 23:38:09
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
